@@ -2,7 +2,7 @@
 ---
 - **Materia:** Seguridad de la Información
 - **Institución:** __[Universidad Arturo Jauretche](https://www.unaj.edu.ar/)__
-- **Campus Virtual:** __[Campus UNAJ](https://campus.unaj.edu.ar/)__
+- **Campus Virtual:** __[Campus UNAJ](https://campus.unaj.edu.ar/course/view.php?id=1013)__
 - **Profesor:** Carlos Schenone.
 - **Comision nº:** 1
 - **Autor:** Emiliano
